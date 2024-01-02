@@ -1,6 +1,6 @@
 Name:		texlive-tex-vpat
-Version:	63560
-Release:	2
+Version:	66758
+Release:	1
 Summary:	TeX Accessibility Conformance Report
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tex-vpat
