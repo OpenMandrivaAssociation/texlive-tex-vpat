@@ -1,5 +1,5 @@
 Name:		texlive-tex-vpat
-Version:	66758
+Version:	72067
 Release:	1
 Summary:	TeX Accessibility Conformance Report
 Group:		Publishing
