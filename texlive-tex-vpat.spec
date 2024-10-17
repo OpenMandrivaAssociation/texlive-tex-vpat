@@ -3,7 +3,7 @@ Version:	72067
 Release:	1
 Summary:	TeX Accessibility Conformance Report
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tex-vpat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tex-vpat
 License:	cc-by-3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-vpat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-vpat.doc.r%{version}.tar.xz
